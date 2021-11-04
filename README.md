@@ -13,7 +13,7 @@ Parameter | Description
 -s  | Specifies a scaling factor to use on values stored in the histogram -- default is 1.
 -c  | Specifies the column containing the value that should be passed to HdrHistogram.
 -p  | Specifies the precision to be used for the histogram.
--M  | Specifies the maximum acceptable value for the histogram.  Default is 60,000,000us (one minute).
+-M  | Specifies the maximum acceptable value for the histogram.  Default is 60,000,000 (60,000,000 microseconds == 1 minute).
 -F  | Specifies the separator used in the file.  Default is the tab character ("\t").
 
 
